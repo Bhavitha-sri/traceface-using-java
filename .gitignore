@@ -1,0 +1,7 @@
+.env
+TraceFaceHome/uploads/*
+TraceFaceHome/data/*
+!TraceFaceHome/uploads/.keep
+!TraceFaceHome/data/.keep
+**/target/
+*.class
