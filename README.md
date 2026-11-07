@@ -11,17 +11,19 @@ TraceFace is a Java web application. A user uploads a face photo, and the app de
 
 ## Screenshots
 
-| Upload page | Choose a photo |
-|---|---|
-| ![Upload page](screenshots/01-upload.png) | ![Choose a photo](screenshots/02-choose-file.png) |
+##Upload page :Choose a photo 
+<img width="1300" height="629" alt="01-upload" src="https://github.com/user-attachments/assets/e05af9e9-0401-42c6-9d2d-77fdf7132f8b" />
 
-| Face detected and best match | Evidence record |
-|---|---|
-| ![Match result](screenshots/03-match.png) | ![Evidence record](screenshots/04-evidence.png) |
+##Face detected and best match :Evidence record 
+<img width="1300" height="629" alt="02-error" src="https://github.com/user-attachments/assets/982add3a-764c-474e-bd0a-4d9c7929939e" />
 
-| Blockchain verification | Face comparisons |
-|---|---|
-| ![Blockchain verification](screenshots/05-blockchain.png) | ![Comparisons](screenshots/06-comparisons.png) |
+
+
+## Blockchain verification 
+<img width="1300" height="629" alt="02-error" src="https://github.com/user-attachments/assets/e9c3124c-7629-44ab-a2b7-5cfb92f2eba8" />
+|Face comparisons |
+<img width="1300" height="629" alt="05-comparisons" src="https://github.com/user-attachments/assets/a263b187-0e35-4c13-ba51-0e5ae3882e46" />
+
 
 ---
 
